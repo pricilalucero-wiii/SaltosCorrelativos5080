@@ -1,0 +1,15 @@
+Dependencias de entorno virtual (NECESARIO para Python)
+
+venv/
+.venv/
+pycache/
+*.pyc
+
+Archivos de datos grandes o de entrada/salida
+
+*.csv
+*.xlsx
+
+Archivos específicos de VS Code
+
+.vscode/
